@@ -9,14 +9,6 @@ The dashboard tracks sales performance from 2023 to June 2025, focusing on reven
 - Average Revenue: 1,053.97
 - Median Revenue: 823.62
 
-# Dashboard Features
-- Revenue by product category
-- Yearly revenue trend
-- Order status analysis
-- Coupon usage analysis
-- Referral source analysis
-- Interactive slicers for Coupons and Referral Source
-
 # Key Insights
 - Chairs generated the highest revenue at 195,620.11.
 - Phones generated the lowest revenue at 151,722.39.
@@ -28,10 +20,7 @@ The dashboard tracks sales performance from 2023 to June 2025, focusing on reven
 # Tools Used
 - Microsoft Excel
 - PivotTables
-- PivotCharts
-- Slicers
 - Excel formulas
-- Dashboard design
 
 # Author
 Lauretta Ogbebor| entry-level data Analyst| Excel | PowerBI | SQL | Github
